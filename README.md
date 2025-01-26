@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hit1363  
 - 👀 I’m passionate about Machine Learning, Competitive Programming, and Software Development. I love exploring innovative technologies and solving real-world problems through coding.  
-- 🌱 I’m currently learning advanced Java concepts, diving into Machine Learning algorithms, and improving my skills in data structures and algorithms.  
+- 🌱 I’m currently learning advanced Java & Python concepts, diving into Machine Learning algorithms, and improving my skills in data structures and algorithms.  
 - 💞️ I’m looking to collaborate on open-source projects, machine learning research, or any software development initiative that helps me grow and contribute to the community.  
 - 📫 How to reach me:  
   - **Gmail:** hasibulislam1363@gmail.com  
