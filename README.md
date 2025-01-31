@@ -5,7 +5,7 @@
 - 📫 How to reach me:  
   - **Gmail:** hasibulislam1363@gmail.com  
   - **Instagram:** [@hasibul_islam_tamim](https://www.instagram.com/hasibul_islam_tamim/)  
-- 😄 Pronouns: He/Him  
+- 🕌 Religion: Islam
 - ⚡ Fun fact: I enjoy debugging and often challenge myself with complex programming problems. Outside of coding, I love learning new things, reading tech blogs, and exploring new tools.  
 - 🎬 **Hobbies:** I’m a huge fan of movies and TV series and enjoy spending my downtime binge-watching my favorite shows.  
 - 🎓 **Background:** I’m a 3rd-year BSc in CSE student (Spring 2025) and an active member of the Machine Learning and Programming clubs.  
