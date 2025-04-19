@@ -2,7 +2,7 @@
 
 ![Header](https://your-image-link-here.com/banner.png) <!-- Replace with your custom banner if you have one -->
 
-Hello!👋🏼 My name is **Hasibul Islam** (aka @hit1363). I’m currently a 3rd-year BSc in Computer Science and Engineering student (Spring 2025) at university, actively learning and building cool things in the tech world! 💻
+Hello!👋🏼 My name is **Hasibul Islam Tamim** (aka @hit1363). I’m currently a 3rd-year BSc in Computer Science and Engineering student (Spring 2025) at university, actively learning and building cool things in the tech world! 💻
 
 I’m passionate about **Machine Learning**, **Competitive Programming**, and **Software Development**.  
 Currently deep diving into **Java**, **Python**, and exploring **Machine Learning algorithms**, while sharpening my skills in **data structures and algorithms**. 🧠⚙️
@@ -38,9 +38,9 @@ I’m an active member of both the **Machine Learning Club** and the **Programmi
 ---
 
 ### 📬 Let’s Connect!
-- 📧 Gmail: hasibulislam1363@gmail.com  
-- 📸 Instagram: [@hasibul_islam_tamim](https://instagram.com/hasibul_islam_tamim)
-- 🧑‍💻 GitHub: [@hit1363](https://github.com/hit1363)
+- <a href="mailto:hasibulislam1363@gmail.com"> <img src="https://img.icons8.com/color/18/gmail-new.png"/><a/> Gmail: hasibulislam1363@gmail.com  
+- <a href="https://instagram.com/hasibul_islam_tamim"><img src="https://img.icons8.com/arcade/20/instagram-new.png"/></a> Instagram: [@hasibul_islam_tamim](https://instagram.com/hasibul_islam_tamim)
+- <a href="https://github.com/hit1363"><img src="https://img.icons8.com/arcade/20/github.png"/></a> GitHub: [@hit1363](https://github.com/hit1363)
 
 ---
 
@@ -53,8 +53,9 @@ I’m an active member of both the **Machine Learning Club** and the **Programmi
 > 💡 *Goal: To become a skilled software engineer & ML expert, contributing to impactful innovations.*
 
 <p align="center">
-  <a href="https://github.com/hit1363"><img src="https://img.icons8.com/ios-filled/50/000000/github.png"/></a>
-  <a href="https://instagram.com/hasibul_islam_tamim"><img src="https://img.icons8.com/ios-filled/50/000000/instagram-new.png"/></a>
+  <a href="https://github.com/hit1363"><img src="https://img.icons8.com/arcade/48/github.png"/></a>
+  <a href="https://instagram.com/hasibul_islam_tamim"><img src="https://img.icons8.com/arcade/48/instagram-new.png"/></a>
+  <a href="mailto:hasibulislam1363@gmail.com"> <img src="https://img.icons8.com/color/44/gmail-new.png"/><a/>
 </p>
 
 
