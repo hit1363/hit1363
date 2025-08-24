@@ -1,6 +1,6 @@
 # Hi there 👋, Welcome!
 
-![Header](https://your-image-link-here.com/banner.png) <!-- Replace with your custom banner if you have one -->
+![Header](https://preview.redd.it/new-batch-7680x2160-ultrawide-wallpapers-08-24-link-in-v0-3macstk1fzkf1.jpg?width=1080&crop=smart&auto=webp&s=007dc0583e3528a644ddff9229d2445f28caae3d) <!-- Replace with your custom banner if you have one -->
 
 Hello!👋🏼 My name is **Hasibul Islam Tamim** (aka @hit1363). I’m currently a 3rd-year BSc in Computer Science and Engineering student (Spring 2025) at university, actively learning and building cool things in the tech world! 💻
 
