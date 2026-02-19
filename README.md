@@ -19,10 +19,19 @@ I’m an active member of both the **Machine Learning Club** and the **Programmi
   <img src="https://img.shields.io/badge/IDE-VSCode-blue?logo=visualstudiocode" />
   <img src="https://img.shields.io/badge/HTML5-orange?logo=html5" />
   <img src="https://img.shields.io/badge/CSS3-blue?logo=css3" />
-  <img src="https://img.shields.io/badge/Java-yellow?logo=java" />
-  <img src="https://img.shields.io/badge/Python-blue?logo=python" />
+  <img src="https://img.shields.io/badge/Python-white?logo=python" />
+  <img src="https://img.shields.io/badge/Jupyter-Notebook-F37626?logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white" />
+
+
+
 </p>
 
 ---
