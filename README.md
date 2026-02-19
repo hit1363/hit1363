@@ -2,10 +2,10 @@
 
 ![Header](https://preview.redd.it/new-batch-7680x2160-ultrawide-wallpapers-08-24-link-in-v0-3macstk1fzkf1.jpg?width=1080&crop=smart&auto=webp&s=007dc0583e3528a644ddff9229d2445f28caae3d) <!-- Replace with your custom banner if you have one -->
 
-Hello!👋🏼 My name is **Hasibul Islam Tamim** (aka @hit1363). I’m currently a 3rd-year BSc in Computer Science and Engineering student (Spring 2025) at university, actively learning and building cool things in the tech world! 💻
+My name is **Hasibul Islam Tamim** (aka @hit1363). I’m currently a Final-year BSc in Computer Science and Engineering student (Spring 2026) at university, actively learning and building cool things in the tech world! 💻
 
 I’m passionate about **Machine Learning**, **Competitive Programming**, and **Software Development**.  
-Currently deep diving into **Java**, **Python**, and exploring **Machine Learning algorithms**, while sharpening my skills in **data structures and algorithms**. 🧠⚙️
+Currently deep diving into **Python**, and exploring **Machine Learning algorithms**, while sharpening my skills in **data structures and algorithms**. 🧠⚙️
 
 I’m an active member of both the **Machine Learning Club** and the **Programming Club**, always eager to participate in communities and collaborate on innovative projects that make a difference. 🤝✨
 
@@ -29,7 +29,6 @@ I’m an active member of both the **Machine Learning Club** and the **Programmi
 
 ### 📌 Currently:
 - 🛠 Working on: exciting coding projects and sharpening my DSA skills.
-- 🌱 Learning: Advanced Java, Python, and ML algorithms.
 - 🤝 Open to: Collaborating on open-source, ML research, and impactful dev projects.
 - 🕌 Religion: Islam  
 - 🎬 Hobbies: Watching movies & TV series, reading tech blogs, and exploring new tools.
@@ -45,7 +44,7 @@ I’m an active member of both the **Machine Learning Club** and the **Programmi
 ---
 
 ### 🎓 Background:
-- 👨‍🎓 3rd-year CSE student (Spring 2025)
+- 👨‍🎓 Final-year CSE student (Spring 2026) at Uttara University
 - 🏫 Completed junior & high school at **Shahajuddin Sarker School & College**
 
 ---
